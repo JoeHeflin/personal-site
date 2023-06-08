@@ -1,4 +1,0 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My Brand New Hugo Site'
-theme = "charlolamode"

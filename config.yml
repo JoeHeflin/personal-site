@@ -1,13 +1,19 @@
- profileMode:
+baseURL: 'http://example.org/' # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
+title: Joseph Norman Heflin
+paginate: 5
+theme: charlolamode
+
+params:
+    profileMode:
         # Disable to populate home page with 'mainSections' content
         enabled: true
         title: Jean Dean
         description: |
-
+    
           Yo, I am Joe.
           I am a software developer, finally. 
         
-
+    
           This is a minimalistic theme template for websites.
         imageUrl: "/static/images/profile.png"
         imageTitle: my image
