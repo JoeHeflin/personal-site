@@ -1,0 +1,18 @@
+ profileMode:
+        # Disable to populate home page with 'mainSections' content
+        enabled: true
+        title: Jean Dean
+        description: |
+
+          Yo, I am Joe.
+          I am a software developer, finally. 
+        
+
+          This is a minimalistic theme template for websites.
+        imageUrl: "/static/images/profile.png"
+        imageTitle: my image
+        # imageWidth: 120
+        # imageHeight: 120
+        buttons:
+            - name: Don't click me
+              url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
