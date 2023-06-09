@@ -4,6 +4,8 @@ I created this repo as part of @noahgift's [Cloud Computing Foundations Coursera
 *TODO: insert diagram*
 ## Deployment
 A. Fork and clone this repo
+
 B. Setup s3 bucket with proper permissions
+
 C. Create new CodeBuild build project that hooks to your repo
 * see buildspec.yml
