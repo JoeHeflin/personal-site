@@ -41,7 +41,7 @@ params:
         - name: github
           url: "https://github.com/JoeHeflin"
         - name: linkedin
-          url: "https://www.linkedin.com/in/josephheflin/"
+          url: "https://www.linkedin.com/in/joseph-heflin/"
 
           # change favicon in images folder (icon for web tab)
     # assets:
