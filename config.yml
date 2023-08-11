@@ -1,24 +1,55 @@
 baseURL: 'http://personalsitejoeheflin.s3-website.us-east-2.amazonaws.com/' # if your site is in 'https', then make sure youp' otherwise yr base url isn't written using 'httour sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-title: Welcome
+title: Joe Heflin
 paginate: 5
 theme: charlolamode
+
+menu:
+    main:
+        - name: Contact
+          url: /contact/
+          weight: 30
+        - name: Resume
+          url: /resume/
+          weight: 35
+        # - name: Articles
+        #   url: /articles/
+        #   weight: 20
+        # - name: Projects
+        #   url: /projects/
+        #   weight: 15
 
 params:
     profileMode:
         # Disable to populate home page with 'mainSections' content
         enabled: true
-        title: Joe Heflin
+        title: Welcome
         description: |
     
-          Hi, my name is Joe.
-          I enjoy solving problems using software. 
+          My name is Joe.
+          I have a passion for solving problems using software. 
         
     
           This is my personal website built using the Hugo framework and hosted statically in AWS s3.
-        imageUrl: "/static/images/profile.png"
+        imageUrl: "images/grouppic45.jpg"
         imageTitle: my image
         # imageWidth: 120
         # imageHeight: 120
-        # buttons:
+        buttons:
         #     - name: Don't click me
         #       url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+    socialIcons:
+        # - name: buymeacoffee
+        #   url: "https://ko-fi.com/heycharlola"
+        - name: github
+          url: "https://github.com/JoeHeflin"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/joseph-heflin/"
+
+          # change favicon in images folder (icon for web tab)
+    assets:
+    #       favicon: "/images/favicon.ico"
+    #       favicon16x16: "/images/favicon-16x16.png"
+    #       favicon32x32: "/images/favicon-32x32.png"
+    #       apple_touch_icon: "/images/apple-touch-icon.png"
+    #       safari_pinned_tab: "/images/apple-touch-icon.png"
