@@ -10,7 +10,7 @@ menu:
           weight: 30
         - name: Resume
           url: /resume/
-          weight: 35
+          weight: 25
         # - name: Articles
         #   url: /articles/
         #   weight: 20
