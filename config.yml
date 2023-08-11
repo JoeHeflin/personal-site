@@ -15,7 +15,7 @@ params:
         
     
           This is my personal website built using the Hugo framework and hosted statically in AWS s3.
-        imageUrl: "/static/images/profile.png"
+        imageUrl: "static/images/profile.png"
         imageTitle: my image
         # imageWidth: 120
         # imageHeight: 120
