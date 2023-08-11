@@ -6,7 +6,7 @@ theme: charlolamode
 params:
     profileMode:
         # Disable to populate home page with 'mainSections' content
-        enabled: true
+        enabled: false
         title: Joe Heflin
         description: |
     
