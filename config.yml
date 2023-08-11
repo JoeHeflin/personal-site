@@ -31,7 +31,7 @@ params:
         imageTitle: my image
         # imageWidth: 120
         # imageHeight: 120
-        # buttons:
+        buttons:
         #     - name: Don't click me
         #       url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
