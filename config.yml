@@ -1,5 +1,5 @@
-baseURL: 'http://example.org/' # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-title: Joseph Norman Heflin
+baseURL: 'http://personalsitejoeheflin.s3-website.us-east-2.amazonaws.com/' # if your site is in 'https', then make sure youp' otherwise yr base url isn't written using 'httour sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
+title: Welcome
 paginate: 5
 theme: charlolamode
 
@@ -7,18 +7,18 @@ params:
     profileMode:
         # Disable to populate home page with 'mainSections' content
         enabled: true
-        title: Jen Dean
+        title: Joe Heflin
         description: |
     
-          Yo, I am Joe.
-          I am a software developer, finally. 
+          Hi, my name is Joe.
+          I enjoy solving problems using software. 
         
     
-          This is a minimalistic theme template for websites.
-        imageUrl: "/images/profile.png"
+          This is my personal website built using the Hugo framework and hosted statically in AWS s3.
+        imageUrl: "/static/images/profile.png"
         imageTitle: my image
         # imageWidth: 120
         # imageHeight: 120
-        buttons:
-            - name: Don't click me
-              url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+        # buttons:
+        #     - name: Don't click me
+        #       url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
