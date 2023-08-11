@@ -3,10 +3,22 @@ title: Welcome
 paginate: 5
 theme: charlolamode
 
+menu:
+    main:
+        - name: Contact
+          url: /contact/
+          weight: 30
+        # - name: Articles
+        #   url: /articles/
+        #   weight: 20
+        # - name: Projects
+        #   url: /projects/
+        #   weight: 15
+
 params:
     profileMode:
         # Disable to populate home page with 'mainSections' content
-        enabled: false
+        enabled: true
         title: Joe Heflin
         description: |
     
@@ -22,3 +34,19 @@ params:
         # buttons:
         #     - name: Don't click me
         #       url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+    socialIcons:
+        # - name: buymeacoffee
+        #   url: "https://ko-fi.com/heycharlola"
+        - name: github
+          url: "https://github.com/JoeHeflin"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/josephheflin/"
+
+          # change favicon in images folder (icon for web tab)
+    # assets:
+    #       favicon: "/images/favicon.ico"
+    #       favicon16x16: "/images/favicon-16x16.png"
+    #       favicon32x32: "/images/favicon-32x32.png"
+    #       apple_touch_icon: "/images/apple-touch-icon.png"
+    #       safari_pinned_tab: "/images/apple-touch-icon.png"
