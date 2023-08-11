@@ -7,7 +7,7 @@ params:
     profileMode:
         # Disable to populate home page with 'mainSections' content
         enabled: true
-        title: Jean Dean
+        title: Jen Dean
         description: |
     
           Yo, I am Joe.
@@ -15,7 +15,7 @@ params:
         
     
           This is a minimalistic theme template for websites.
-        imageUrl: "/static/images/profile.png"
+        imageUrl: "/images/profile.png"
         imageTitle: my image
         # imageWidth: 120
         # imageHeight: 120
