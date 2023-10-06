@@ -1,4 +1,4 @@
-baseURL: 'http://personalsitejoeheflin.s3-website.us-east-2.amazonaws.com/' # if your site is in 'https', then make sure youp' otherwise yr base url isn't written using 'httour sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
+baseURL: 'http://joeheflin.com/' # if your site is in 'https', then make sure youp' otherwise yr base url isn't written using 'httour sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 title: Joe Heflin
 paginate: 5
 theme: charlolamode

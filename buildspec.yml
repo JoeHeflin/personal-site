@@ -19,7 +19,6 @@ phases:
     commands:
       - rm -rf public
       - hugo
-      - aws s3 sync public/ s3://personalsitejoeheflin/ --region us-east-2 --delete
       - aws s3 sync public/ s3://joeheflin.com/ --region us-east-2 --delete
   post_build:
     commands:
