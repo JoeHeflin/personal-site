@@ -1,6 +1,9 @@
-# HUGO site Continuous Deployment using AWS s3
-I created this repo as part of @noahgift's [Cloud Computing Foundations Coursera Course](https://www.coursera.org/learn/cloud-computing-foundations-duke/home/welcome).
+# HUGO site Continuous Deployment
+I created a personal portfolio site as an extension of a project I completed as part of @noahgift's [Cloud Computing Foundations Coursera Course](https://www.coursera.org/learn/cloud-computing-foundations-duke/home/welcome).
 
 Link to site: http://joeheflin.com
 ## Overview
-![*TODO: insert diagram*](hugo-cd.drawio.png)
+![architecture diagram](hugo-cd.drawio.png)
+
+## Authors
+@JoeHeflin, Hugo theme template by @charlola
