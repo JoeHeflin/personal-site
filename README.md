@@ -3,7 +3,7 @@ I created a personal portfolio site as an extension of a project I completed as 
 
 Link to site: http://joeheflin.com
 ## Overview
-![architecture diagram](hugo-cd.drawio.png)
+![architecture diagram](personalsitediagram.png)
 
 ## Authors
 @JoeHeflin, Hugo theme template by @charlola
