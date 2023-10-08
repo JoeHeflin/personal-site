@@ -5,31 +5,27 @@ theme: charlolamode
 
 menu:
     main:
-        - name: Contact
+        - name: Contact Me
           url: /contact/
           weight: 30
-        - name: Resume
+        - name: Background
           url: /resume/
           weight: 25
-        # - name: Articles
-        #   url: /articles/
-        #   weight: 20
         # - name: Projects
         #   url: /projects/
-        #   weight: 15
+        #   weight: 27
 
 params:
     profileMode:
         # Disable to populate home page with 'mainSections' content
         enabled: true
-        title: Welcome
+        title: Hello
         description: |
     
           My name is Joe.
-          I have a passion for solving problems using software. 
-        
-    
-          This is my personal website built using the Hugo framework and hosted statically in AWS s3.
+          I have a passion for creating solutions and architecting robust systems using software. 
+          Welcome to my personal website.
+          
         imageUrl: "images/joepic.jpg"
         imageTitle: my image
         # imageWidth: 120
@@ -53,3 +49,10 @@ params:
     #       favicon32x32: "/images/favicon-32x32.png"
     #       apple_touch_icon: "/images/apple-touch-icon.png"
     #       safari_pinned_tab: "/images/apple-touch-icon.png"
+
+    ShowReadingTime: false
+    ShowShareButtons: false
+    ShowToc: false
+    author: false
+    hideFooter: true
+    defaultTheme: dark
