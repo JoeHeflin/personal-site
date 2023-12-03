@@ -2,7 +2,7 @@
 title: Education
 type: page
 topic: career
-weight: 5
+weight: 555
 ---
 
 ### Degrees

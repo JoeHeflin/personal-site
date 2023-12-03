@@ -1,17 +1,22 @@
-## My experience
+---
+title: "About Me"
+showLikes: false
+showViews: false
+showTableOfContents: false
+list.cardView: true
+list.cardViewScreenWidth: true
 
+---
 
-[Click here](/downloads/JoeHeflinResume.pdf) to view my resume in your browser.
+### ADD BRIEF DESCRITION HERE
 
-{{< pdf_download pdf="/downloads/JoeHeflinResume.pdf" >}}
 #
 
-
-Click each tab to view!
-
-
-#
+{{< button href="/downloads/JoeHeflinResume.pdf" target="_self">}}
+Download Resume PDF
+{{< /button >}}
 
 
+##
 
 

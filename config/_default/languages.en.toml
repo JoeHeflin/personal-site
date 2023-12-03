@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Welcome"
+title = "Home"
 
 [params]
   displayName = "EN"
@@ -16,7 +16,7 @@ title = "Welcome"
 [author]
   name = "Joe Heflin"
   image = "img/joepic.jpg"
-  headline = "I'm only human"
+  headline = "Todo: thumbnails, change resume, update work descriptions, subdomains, projects"
   bio = "A little bit about you"
   links = [
     { email = "mailto:joeheflin30@gmail.com" },
