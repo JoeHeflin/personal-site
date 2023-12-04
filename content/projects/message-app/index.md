@@ -1,5 +1,6 @@
 ---
-title: Reflecting on Building a Simple Python Messaging App for a Computer Networks Course
+title: Building a Simple Python Messaging App
+type: page
 description: Click on me to see the content.
 topic: career
 ---

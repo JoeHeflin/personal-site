@@ -1,5 +1,5 @@
 ---
-title: Certifications
+title: Skills and Certifications
 type: page
 topic: career
 weight: 5

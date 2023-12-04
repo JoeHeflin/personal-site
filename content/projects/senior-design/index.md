@@ -1,7 +1,8 @@
 ---
-title: Ability to React: My Role in Crafting a Dynamic Web Application
-description: Click on me to see the content.
+title: Crafting a Dynamic Web Application
+type: page
 topic: career
+weight: 5
 ---
 
 Throughout an enriching semester, I had the privilege of collaborating with a dedicated team of four individuals on a challenging yet rewarding project for our Senior Design Course. Our mission was to construct the front-end of a fictional web application that aimed to track electrical instruments, all while adhering to the fundamental principle of designing software for maintainability.

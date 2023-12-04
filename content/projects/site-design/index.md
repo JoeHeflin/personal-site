@@ -1,5 +1,5 @@
 ---
-title: Deploying a Static Site with AWS: System Design Overview
+title: Deploying a Static Site with AWS
 type: page
 description: Click on me to see the content.
 topic: career
