@@ -2,7 +2,7 @@
 title: Certifications
 type: page
 topic: career
-weight: 55
+weight: 5
 ---
 <!--[Certified AWS Cloud Practitioner](https://www.credly.com/badges/73d4c9ec-23ac-44fe-bb10-5d8924f42f49/public_url)-->
 <!--![alt text](/images/aws-certified-cloud-practitioner.png)-->
