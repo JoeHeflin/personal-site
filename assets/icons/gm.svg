@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0) -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 432 432" style="enable-background:new 0 0 432 432;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:url(#SVGID_1_);}
+	.st0{fill:#FFFFFF;} /* Changed to white */
 </style>
 <g id="GM_Gradient_Brandmark">
-	
-		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="216" y1="2" x2="216" y2="434" gradientTransform="matrix(1 0 0 -1 0 434)">
-		<stop  offset="0" style="stop-color:#0B8BD2"/>
-		<stop  offset="1" style="stop-color:#4EE0FD"/>
-	</linearGradient>
 	<path class="st0" d="M432,61.6C432,24.2,407.8,0,370.4,0H61.6C24.3,0,0,24.2,0,61.6v308.8C0,407.8,24.2,432,61.6,432h308.8
 		c37.4,0,61.6-24.2,61.6-61.6V61.6z M367.5,404.6h-303c-24.5,0-37.1-12.6-37.1-37.1V64.5C27.4,40,40,27.4,64.5,27.4h303
 		c24.5,0,37.1,12.6,37.1,37.1v303.1C404.6,392,392,404.6,367.5,404.6L367.5,404.6z M352,147.2v114.5h-31.5V151.8
