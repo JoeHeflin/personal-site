@@ -13,3 +13,5 @@ Throughout the project, the utilization of Python's socket library for networkin
 This project served as an excellent hands-on experience in understanding the intricacies of computer networking, threading, and their practical applications in software development. It highlighted the significance of clear communication protocols, error handling, and user authentication in building functional network-based applications.
 
 The journey of building this messaging app solidified my comprehension of these fundamental networking concepts and fortified my Python programming skills, providing a concrete foundation for tackling more complex networking challenges in the future.
+
+[GitHub Repository for the Project](https://github.com/JoeHeflin/messaging-app)
