@@ -16,7 +16,7 @@ title = "Home"
 [author]
   name = "Joe Heflin"
   image = "img/joepic.jpg"
-  headline = "Todo: thumbnails, change resume, update work descriptions, subdomains, projects"
+  headline = "Innovating software, empowering humanity."
   bio = "A little bit about you"
   links = [
     { email = "mailto:joeheflin30@gmail.com" },
