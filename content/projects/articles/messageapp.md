@@ -1,5 +1,8 @@
-# Reflecting on Building a Simple Python Messaging App for a Computer Networks Course
-
+---
+title: Reflecting on Building a Simple Python Messaging App for a Computer Networks Course
+description: Click on me to see the content.
+topic: career
+---
 While taking a Computer Networks course at the University of New South Wales, I built a rudimentary yet robust command-line messaging app using Python. This project aimed to exercise crucial skills in Python programming, threading, and networking principles.
 
 The core components of the messaging app revolved around two main scripts: `server.py` and `client.py`. The server script operated as the backbone of the application, responsible for handling incoming connections, managing user sessions, and relaying messages between clients. To initiate the server, specific command-line arguments were required, including port number, block duration, and timeout settings. These parameters dictated the server's behavior, regulating failed login attempts, and managing session durations.
