@@ -19,3 +19,8 @@ May 2021
 - Engineering Software for Maintainability
 - Database Systems
 - Computer Networks
+
+### Online Courses
+#### Coursera
+- [Cloud Computing Foundations (2023)](https://coursera.org/share/f35cfc460cc9daec7b991777d3db2bca)
+- [Cloud Virtualization, Containers, and APIs (2023)](https://coursera.org/share/2d796f09312ea55cf298e89f5efc055c)
