@@ -27,3 +27,5 @@ This deployment system brings numerous advantages. The static hosting in S3 ensu
 The use of AWS services provides scalability, ensuring that as my site grows, it can easily handle increased traffic without compromising performance.
 
 In conclusion, this deployment architecture employing Hugo, AWS S3, Route 53, GitHub, and AWS CodeBuild has allowed me to establish and maintain a high-performance website with minimal operational overhead.
+
+[GitHub Repository for Project](https://github.com/JoeHeflin/personal-site/)
