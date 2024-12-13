@@ -8,6 +8,16 @@ heroStyle: "basic"
 --- 
 {{< timeline >}}
 
+{{< timelineItem icon="gm" header="Software Engineer" badge="5/23 - Present" subheader="General Motors, Software Defined Vehicle: Mechatronic Platform, Detroit, MI" >}}
+
+<ul>
+  <li>Developed BSW software stack for novel software-defined vehicle software architecture.</li>
+  <li>Synthesized feature requirements and design specifications to support new api definitions.</li>
+  <li>Refactored code handling process to reduce project complexity and bug generation.</li>
+</ul>
+
+{{< /timelineItem >}}
+
 {{< timelineItem icon="gm" header="Software Developer, Infotainment" badge="5/23 - Present" subheader="General Motors, Software Defined Vehicle: Infotainment, Detroit, MI" >}}
 
 <ul>
