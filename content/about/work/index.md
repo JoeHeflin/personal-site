@@ -8,7 +8,7 @@ heroStyle: "basic"
 --- 
 {{< timeline >}}
 
-{{< timelineItem icon="gm" header="Software Engineer" badge="5/23 - Present" subheader="General Motors, Software Defined Vehicle: Mechatronic Platform, Detroit, MI" >}}
+{{< timelineItem icon="gm" header="Software Engineer" badge="6/24 - Present" subheader="General Motors, Software Defined Vehicle: Mechatronic Platform, Detroit, MI" >}}
 
 <ul>
   <li>Developed BSW software stack for novel software-defined vehicle software architecture.</li>
@@ -18,7 +18,7 @@ heroStyle: "basic"
 
 {{< /timelineItem >}}
 
-{{< timelineItem icon="gm" header="Software Developer, Infotainment" badge="5/23 - Present" subheader="General Motors, Software Defined Vehicle: Infotainment, Detroit, MI" >}}
+{{< timelineItem icon="gm" header="Software Developer" badge="5/23 - 5/24" subheader="General Motors, Software Defined Vehicle: Infotainment, Detroit, MI" >}}
 
 <ul>
   <li>Built an Android application in Java using the Android Automotive framework to allow developers and QA engineers to set vehicle signals and view their metadata quickly and easily.</li>
